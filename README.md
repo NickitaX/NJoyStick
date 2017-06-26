@@ -2,6 +2,8 @@
 
 NJoyStick is a simple library which allows you to add JoyStick view for android.
 
+![Alt text](./demo.gif?raw=true "Demo")
+
 Basic features:
 
  * Movement XY
