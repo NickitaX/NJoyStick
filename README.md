@@ -26,7 +26,7 @@ Basic features:
 ```
 * Add compile path to your build.graddle:
  ```java
-compile(name:'cards', ext:'aar')
+compile(name:'njoystick-release', ext:'aar')
 ```
  * Done!
 
